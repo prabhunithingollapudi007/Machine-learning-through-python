@@ -1,3 +1,3 @@
 # Machine-learning-through-python
-Basic Machine learning Algorithms using Scikit 
+Basic Data Analysis and application of Machine learning Algorithms using Scikit 
 
