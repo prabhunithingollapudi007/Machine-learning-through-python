@@ -1,5 +1,6 @@
-# Machine-learning-through-python
-Basic Data Analysis and application of Machine learning Algorithms using Scikit 
+# Machine-learning-with-python
+
+Basic Data Analysis and application of Machine learning Algorithms using Scikit-Learn, Matplotlib, Pandas, Numpy, Seaborn.
 
 Sources and credits to 
 
